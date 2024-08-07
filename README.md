@@ -1,8 +1,8 @@
-![Screenshot (104)](https://github.com/user-attachments/assets/143a8802-4f40-4be5-86a4-8341b6e21c07)# DNS Changer Tool 🛠️
+# DNS Changer Tool 🛠️
 
 Welcome to the **DNS Changer Tool** repository! This tool allows you to easily change and manage your DNS settings on Windows.
 
-![DNS Changer Banner]() <!-- Replace with your actual banner URL -->
+![DNS Changer Banner](https://github.com/user-attachments/assets/143a8802-4f40-4be5-86a4-8341b6e21c07) <!-- Replace with your actual banner URL -->
 
 ## Features 🚀
 
