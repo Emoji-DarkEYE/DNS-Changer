@@ -28,7 +28,7 @@ To delete all DNS settings, simply remove the data folder.
 Getting Started 🏁
 Clone the Repository:
 
-git clone https://github.com/username/dns-changer.git
+git clone https://github.com/Emoji-DarkEYE/dns-changer.git
 cd dns-changer
 
 Install Dependencies:
