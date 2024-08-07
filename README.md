@@ -1,7 +1,5 @@
 # DNS Changer Tool 🛠️
 
-# DNS Changer Tool 🛠️
-
 Welcome to the **DNS Changer Tool** repository! This tool allows you to easily change and manage your DNS settings on Windows.
 
 ![DNS Changer Banner](https://example.com/banner.png) <!-- Replace with your actual banner URL -->
